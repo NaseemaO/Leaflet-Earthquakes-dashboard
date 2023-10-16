@@ -53,17 +53,15 @@ Add layer controls to the map
 Url of Significant Earthquakes within the Past 7 Days dataset created by the United States Geological Survey USGS:
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
-Links 
 Leaflet documentation  https://leafletjs.com/reference.html
 
 *GeoJSON: http://leafletjs.com/reference.html#geojson
 
 Using GeoJSON with Leaflet tutorial: http://leafletjs.com/examples/geojson/
 
-Plotly.js documentationLinks to an external site. when building the plots.
-https://www.w3schools.com/tags/tag_select.asp
-
 Colors hex codes: https://www.w3schools.com/colors/colors_picker.asp
+
+airnav.com for coordinates of Kansas City Airport MCI as midpint mid continent.coordinates obtained from airnav.com/airports. 
 
 ## Acknowledgments: Bootcamp Course Data Visualization and Data Analytics Instructor: Hunter Hollis, TAs: Sam Espe and Randy Sendek, and Tutors. 
 
