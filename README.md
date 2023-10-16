@@ -1,34 +1,33 @@
 # leaflet-challenge. Week 15 Assignment
 Dashboard link: https://naseemao.github.io/leaflet-challenge/
-
 GitHub link: https://github.com/NaseemaO/leaflet-challenge.git
 
 ## Overview: 
-Interactive Dashboard created that shows the Significant Earthquakes around the world over a period of 30 days period: 09/11/23-10/11/23/ 
+Interactive Dashboard created that shows the Significant Earthquakes around the world over a period of 30 days period: 09/11/23-10/11/23.
 The Magnitude of the earthquakes are indicated by the size of the circle. Earthquakes with higher magnitudes appear larger.   
 The depth of the earthquake is indicated by color and depth of the color. Earthquakes with greater depth should appear darker in color.
 
 ### Legend on the map: (See picture attached, and in the GitHub images folder)
-    red for 90+ magnitude, 
-    orange for 70-90, 
-    light orange for 50-70, 
-    yellow #ffff00 for 30-50, 
-    lime for 10-30, 
-    bright green for -10 - 10. 
+    red: magnitude >90 
+    orange: 70-90, 
+    light orange: 50-70, 
+    yellow: 30-50, 
+    lime: 10-30, 
+    bright green: < 10 
 
 ### Information Pop-Up Box: (See picture attached, and in the GitHub images folder)
-Click on a circle (an earthquake) to see: 
-    Location: Poland-Slovakia border region
-    Date: Mon Oct 09 2023 13:23:09 GMT-0500 (Central Daylight Time)
-    Magnitude: 5
-    Coordinates: 49.0862, 21.7825
-    Depth: 8.273
+    Click on a circle (an earthquake) to see: 
+    Location: 
+    Date: GMT-0500 (Central Daylight Time),
+    Magnitude: 
+    Coordinates: Latitude, Longitude
+    Depth: 
 
 ### Earthquake data obtained from: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
-###Programs used to create dashboard: html, javascript, css, leaflet. 
+### Programs used to create dashboard: html, javascript, css, leaflet. 
 
-###Leaflet-challenge directory cotains: 
+### Leaflet-challenge directory cotains: 
     css and js code files in Static folder: located in the GitHub directory: https://github.com/NaseemaO/leaflet-challenge/tree/main/Leaflet_Part_1/static 
     Images folder: Pictures of visualizations
     Resources: Data files significant_month.geojson and earthquake_source_data_format.docx https://github.com/NaseemaO/leaflet-challenge/tree/main/Resources

@@ -81,14 +81,14 @@ let legend = L.control({position: 'bottomright'});
 
 legend.onAdd = function () {
     let div = L.DomUtil.create('div', 'info legend');
-    let x = [90, 70, 50, 30, 10, -10];
+    let x = [-10, 10, 30, 50, 70, 90];
     let y = [
-      '#ff4000',
-      '#ff8000',
-      '#ffbf00',
-      '#ffff00',
+      '#40ff00',
       '#bfff00',
-      '#40ff00'
+      '#ffff00',
+      '#ffbf00',
+      '#ff8000',
+      '#ff4000'           
     ];
 
     for (let i = 0; i < x.length; i++) {
