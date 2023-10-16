@@ -8,7 +8,7 @@ Interactive Dashboard created that shows the Significant Earthquakes around the 
 The Magnitude of the earthquakes are indicated by the size of the circle. Earthquakes with higher magnitudes appear larger.   
 The depth of the earthquake is indicated by color and depth of the color. Earthquakes with greater depth should appear darker in color.
 
-###Legend on the map: (See picture attached, and in the GitHub images folder)
+### Legend on the map: (See picture attached, and in the GitHub images folder)
     red for 90+ magnitude, 
     orange for 70-90, 
     light orange for 50-70, 
@@ -16,7 +16,7 @@ The depth of the earthquake is indicated by color and depth of the color. Earthq
     lime for 10-30, 
     bright green for -10 - 10. 
 
-###Information Pop-Up Box: (See picture attached, and in the GitHub images folder)
+### Information Pop-Up Box: (See picture attached, and in the GitHub images folder)
 Click on a circle (an earthquake) to see: 
     Location: Poland-Slovakia border region
     Date: Mon Oct 09 2023 13:23:09 GMT-0500 (Central Daylight Time)
@@ -24,7 +24,7 @@ Click on a circle (an earthquake) to see:
     Coordinates: 49.0862, 21.7825
     Depth: 8.273
 
-###Earthquake data obtained from: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+### Earthquake data obtained from: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
 ###Programs used to create dashboard: html, javascript, css, leaflet. 
 
