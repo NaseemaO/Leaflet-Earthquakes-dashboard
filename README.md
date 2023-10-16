@@ -28,13 +28,8 @@ The depth of the earthquake is indicated by color and depth of the color. Earthq
 
 ### Visualizations: all images are located in Image folder
 dashboard.png
-![dashboard](leaflet-challenge\Images)
 all_significant_earthquakes.png
 popup_example.png
-
-
-
-
 
 ### Programs used to create dashboard: html, javascript, css, leaflet. 
 
