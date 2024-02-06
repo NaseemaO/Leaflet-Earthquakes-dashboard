@@ -1,8 +1,6 @@
 # leaflet-challenge. Week 15 Assignment
 Dashboard link: https://naseemao.github.io/leaflet-challenge/
 
-GitHub link: https://github.com/NaseemaO/leaflet-challenge.git
-
 ## Overview: 
 Interactive Dashboard created that shows the Significant Earthquakes around the world over a period of 30 days period: 09/11/23-10/11/23.
 The Magnitude of the earthquakes are indicated by the size of the circle. Earthquakes with higher magnitudes appear larger.   
